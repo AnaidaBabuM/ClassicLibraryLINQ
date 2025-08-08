@@ -1,0 +1,30 @@
+# Microsoft Access database files
+Library.mdb
+*.mdb
+*.accdb
+
+# ASP Classic temporary and log files
+*.log
+*.tmp
+*.bak
+
+# .NET build artifacts
+bin/
+obj/
+*.dll
+*.pdb
+
+# Visual Studio files
+*.suo
+*.user
+.vscode/
+.idea/
+
+# Windows system files
+Thumbs.db
+desktop.ini
+
+# Temporary and cache files
+*.cache
+*.temp
+*.swp
